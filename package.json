@@ -1,0 +1,27 @@
+{
+  "name": "ts-zoom",
+  "version": "1.0.0",
+  "description": "Typescript API client of Zoom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mztnnrt/ts-zoom.git"
+  },
+  "author": "mztnnrt@gmail.com (http://github.com/mztnnrt/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mztnnrt/ts-zoom/issues"
+  },
+  "homepage": "https://github.com/mztnnrt/ts-zoom#readme",
+  "dependencies": {
+    "node": "^15.8.0"
+  },
+  "devDependencies": {
+    "chance": "^1.1.7",
+    "rewrite": "^0.0.1",
+    "sinon": "^9.2.4"
+  }
+}
