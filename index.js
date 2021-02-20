@@ -1,6 +1,6 @@
 
 function aiueo() {
-  console.log('aaa');
+  console.log('aiueo');
 }
 
 export default aiueo;
